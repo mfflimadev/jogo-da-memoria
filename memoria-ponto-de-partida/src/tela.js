@@ -1,0 +1,10 @@
+export const tabuleiro = document.querySelector('.tabuleiro');
+export const botaoPausar = document.querySelector('.botao-pausar');
+export const textoTempo = document.querySelector('.tempo');
+export const textoJogadas = document.querySelector('.jogadas');
+export const telaFim = document.querySelector('.fim');
+export const textoFimTempo = document.querySelector('.fim-tempo');
+export const textoFimJogadas = document.querySelector('.fim-jogadas');
+export const seloNovoRecorde = document.querySelector('.novo-recorde');
+export const textoHistoricoVazio = document.querySelector('.historico-vazio');
+export const listaHistorico = document.querySelector('.lista-historico');
